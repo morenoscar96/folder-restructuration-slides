@@ -26,6 +26,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 - [File types proposal](##File-types-proposal)
 - [Functional based structure](##Functional-based-structure)
 - [App based structure](##App-based-structure)
+- [Analysis](##Analysis)
+- [References](##References)
 
 ---
 ![bg](https://wallpaperaccess.com/full/1201180.jpg)
@@ -135,3 +137,16 @@ COMPANY
 
 ---
 ![bg fit](https://meridianwealth.com.au/wp-content/uploads/2019/01/Small-steps-add-up-1-1024x448.png)
+
+
+---
+#### References
+- [Structuring Large Applications In Flask Using Blueprints](https://levelup.gitconnected.com/structuring-a-large-production-flask-application-7a0066a65447)
+
+- [Structuring a Large Production Flask Application](https://levelup.gitconnected.com/structuring-a-large-production-flask-application-7a0066a65447)
+
+- [Ideal Flask project structure for absolutely scalable web application in 2021](https://codersdiaries.com/blog/flask-project-structure)
+
+- [Best Practices for Flask API Development](https://auth0.com/blog/best-practices-for-flask-api-development/)
+
+- [Structure of a Flask Project](https://lepture.com/en/2018/structure-of-a-flask-project)
